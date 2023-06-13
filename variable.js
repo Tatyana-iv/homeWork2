@@ -5,13 +5,13 @@
 // alert(b);
 
 // // задание 2 //
-// let data = 2007;
-// alert("Год выпуска первого iPhone:" + data);
+// let dateOfCreation = 2007;
+// alert("Год выпуска первого iPhone:" + dateOfCreation);
 
-// // задание 3//
+// задание 3//
 
-// let nameOwner = "Brendan Eich"
-// alert ("Имя создателя JavaScript - " + nameOwner);
+// let nameCreator = "Brendan Eich"
+// alert ("Имя создателя JavaScript - " + nameCreator);
 
 // // задание 4//
 
