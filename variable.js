@@ -5,15 +5,15 @@
 // alert(b);
 
 // // задание 2 //
-// let data = 2007;
-// alert("Год выпуска первого iPhone:" + data);
+// let dateOfCreation = 2007;
+// alert("Год выпуска первого iPhone:" + dateOfCreation);
 
 // задание 3//
 
-// let nameOwner = "Brendan Eich"
-// alert ("Имя создателя JavaScript - " + nameOwner);
+// let nameCreator = "Brendan Eich"
+// alert ("Имя создателя JavaScript - " + nameCreator);
 
-// задание 4//
+// // задание 4//
 
 // let first = 10;
 // let second = 2;
@@ -32,17 +32,17 @@
 // };
 // matOperation(first, second);
 
-// задание 5//
+// // задание 5//
 // let result = 2 ;
 // alert(result **5);
 
-// задание 6//
+// // задание 6//
 
 // let a=9;
 // let b=2;
 // alert(a % b);
 
-// задание 7//
+// // задание 7//
 // let num =1;
 // num +=5;
 // num -=3;
@@ -52,11 +52,11 @@
 // num--;
 // alert(num);
 
-// задание 8//
+// // задание 8//
 // let age = prompt("сколько вам лет?");
 // alert("ваш возраст " + age);
 
-// задание 9//
+// // задание 9//
 // let user = {
 //     name: 'Tanya',
 //     age: 24,

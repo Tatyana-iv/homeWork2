@@ -128,7 +128,7 @@
     width: 343px;
     height: 77px;
   }
-  .head__text {
+  .head__title-text {
     width: 343px;
     height: 66px;
     font-size: 14px;
@@ -141,6 +141,13 @@
   .head__button {
     display: flex;
     align-items: center;
+  }
+  .cart {
+    height: 1220px;
+    background-size: cover;
+    background-color: #000915;
+    padding-top: 128px;
+    padding-bottom: 128px;
   }
   .cart-wrapp {
     display: flex;
